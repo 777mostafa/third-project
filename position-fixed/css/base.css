@@ -1,0 +1,15 @@
+.container{
+	width:400px;
+	height:4000px;
+	margin:auto;
+	background:#d3d3d3;
+	border-bottom:200px solid #f00;
+}
+.banner{
+	width:50px;
+	height:50px;
+	background:#0f0;
+	position:fixed;
+	top:200px;
+	left:0;
+}
